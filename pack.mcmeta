@@ -3,12 +3,16 @@
 		"pack_format": 46,
 		"description": [
 			{
-				"text": "Modernity Test Pack for 1.21.4 ",
-				"color": "#00FFFF"
+				"text": "Modernity by K.D.T for 1.21.4 ",
+				"color": "#FFFFFF"
 			},
 			{
-				"text": "(1024x)",
-				"color": "#B90E0A"
+				"text": "[1024x - Java Edition]",
+				"color": "#29517A"
+			},
+			{
+				"text": "Alpha Release",
+				"color": "#00FFFF"
 			}
 		]
 	}
