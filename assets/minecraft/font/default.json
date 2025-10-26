@@ -1,0 +1,19 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:montserrat_regular.ttf",
+      "shift": [ 0, 0 ],
+      "size": 9.0,
+      "oversample": 4.0
+    },
+    // Optionally, you can include the default Minecraft font as a fallback
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ascii.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [ ".... (full ASCII character set data)" ]
+    }
+  ]
+}
