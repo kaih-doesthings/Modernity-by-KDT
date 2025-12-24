@@ -1,0 +1,128 @@
+{
+  "music_disc.cat": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cat",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.blocks": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/blocks",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.chirp": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/chirp",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.far": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/far",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mall": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/mall",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mellohi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/mellohi",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.stal": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/stal",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.strad": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/strad",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.ward": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/ward",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.wait": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/wait",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.11": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/11",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.pigstep": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/pigstep",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.13": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/13",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.relic": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/relic",
+        "stream": true
+      }
+    ]
+  }
+}
